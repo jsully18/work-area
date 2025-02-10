@@ -1,0 +1,15 @@
+/Users/user/MIS221/labs/LAB3jsullivan/bin/Debug/net8.0/LAB3jsullivan
+/Users/user/MIS221/labs/LAB3jsullivan/bin/Debug/net8.0/LAB3jsullivan.deps.json
+/Users/user/MIS221/labs/LAB3jsullivan/bin/Debug/net8.0/LAB3jsullivan.runtimeconfig.json
+/Users/user/MIS221/labs/LAB3jsullivan/bin/Debug/net8.0/LAB3jsullivan.dll
+/Users/user/MIS221/labs/LAB3jsullivan/bin/Debug/net8.0/LAB3jsullivan.pdb
+/Users/user/MIS221/labs/LAB3jsullivan/obj/Debug/net8.0/LAB3jsullivan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/MIS221/labs/LAB3jsullivan/obj/Debug/net8.0/LAB3jsullivan.AssemblyInfoInputs.cache
+/Users/user/MIS221/labs/LAB3jsullivan/obj/Debug/net8.0/LAB3jsullivan.AssemblyInfo.cs
+/Users/user/MIS221/labs/LAB3jsullivan/obj/Debug/net8.0/LAB3jsullivan.csproj.CoreCompileInputs.cache
+/Users/user/MIS221/labs/LAB3jsullivan/obj/Debug/net8.0/LAB3jsullivan.sourcelink.json
+/Users/user/MIS221/labs/LAB3jsullivan/obj/Debug/net8.0/LAB3jsullivan.dll
+/Users/user/MIS221/labs/LAB3jsullivan/obj/Debug/net8.0/refint/LAB3jsullivan.dll
+/Users/user/MIS221/labs/LAB3jsullivan/obj/Debug/net8.0/LAB3jsullivan.pdb
+/Users/user/MIS221/labs/LAB3jsullivan/obj/Debug/net8.0/LAB3jsullivan.genruntimeconfig.cache
+/Users/user/MIS221/labs/LAB3jsullivan/obj/Debug/net8.0/ref/LAB3jsullivan.dll

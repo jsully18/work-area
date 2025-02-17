@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab4jsully18")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19cd7f7a886540c0278a0fac4687b75548a6b507")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a67db4e7f252eb553147d1d4aac2d91c56e7358a")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab4jsully18")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab4jsully18")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

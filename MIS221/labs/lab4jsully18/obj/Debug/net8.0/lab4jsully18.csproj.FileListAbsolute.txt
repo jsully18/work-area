@@ -1,0 +1,15 @@
+/Users/user/MIS221/labs/lab4jsully18/bin/Debug/net8.0/lab4jsully18
+/Users/user/MIS221/labs/lab4jsully18/bin/Debug/net8.0/lab4jsully18.deps.json
+/Users/user/MIS221/labs/lab4jsully18/bin/Debug/net8.0/lab4jsully18.runtimeconfig.json
+/Users/user/MIS221/labs/lab4jsully18/bin/Debug/net8.0/lab4jsully18.dll
+/Users/user/MIS221/labs/lab4jsully18/bin/Debug/net8.0/lab4jsully18.pdb
+/Users/user/MIS221/labs/lab4jsully18/obj/Debug/net8.0/lab4jsully18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/MIS221/labs/lab4jsully18/obj/Debug/net8.0/lab4jsully18.AssemblyInfoInputs.cache
+/Users/user/MIS221/labs/lab4jsully18/obj/Debug/net8.0/lab4jsully18.AssemblyInfo.cs
+/Users/user/MIS221/labs/lab4jsully18/obj/Debug/net8.0/lab4jsully18.csproj.CoreCompileInputs.cache
+/Users/user/MIS221/labs/lab4jsully18/obj/Debug/net8.0/lab4jsully18.sourcelink.json
+/Users/user/MIS221/labs/lab4jsully18/obj/Debug/net8.0/lab4jsully18.dll
+/Users/user/MIS221/labs/lab4jsully18/obj/Debug/net8.0/refint/lab4jsully18.dll
+/Users/user/MIS221/labs/lab4jsully18/obj/Debug/net8.0/lab4jsully18.pdb
+/Users/user/MIS221/labs/lab4jsully18/obj/Debug/net8.0/lab4jsully18.genruntimeconfig.cache
+/Users/user/MIS221/labs/lab4jsully18/obj/Debug/net8.0/ref/lab4jsully18.dll

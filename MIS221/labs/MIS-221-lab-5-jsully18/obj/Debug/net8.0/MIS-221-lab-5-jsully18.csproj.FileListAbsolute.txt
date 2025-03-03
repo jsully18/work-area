@@ -1,0 +1,15 @@
+/Users/user/MIS221/labs/MIS-221-lab-5-jsully18/obj/Debug/net8.0/MIS-221-lab-5-jsully18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/MIS221/labs/MIS-221-lab-5-jsully18/obj/Debug/net8.0/MIS-221-lab-5-jsully18.AssemblyInfoInputs.cache
+/Users/user/MIS221/labs/MIS-221-lab-5-jsully18/obj/Debug/net8.0/MIS-221-lab-5-jsully18.AssemblyInfo.cs
+/Users/user/MIS221/labs/MIS-221-lab-5-jsully18/obj/Debug/net8.0/MIS-221-lab-5-jsully18.csproj.CoreCompileInputs.cache
+/Users/user/MIS221/labs/MIS-221-lab-5-jsully18/obj/Debug/net8.0/MIS-221-lab-5-jsully18.sourcelink.json
+/Users/user/MIS221/labs/MIS-221-lab-5-jsully18/bin/Debug/net8.0/MIS-221-lab-5-jsully18
+/Users/user/MIS221/labs/MIS-221-lab-5-jsully18/bin/Debug/net8.0/MIS-221-lab-5-jsully18.deps.json
+/Users/user/MIS221/labs/MIS-221-lab-5-jsully18/bin/Debug/net8.0/MIS-221-lab-5-jsully18.runtimeconfig.json
+/Users/user/MIS221/labs/MIS-221-lab-5-jsully18/bin/Debug/net8.0/MIS-221-lab-5-jsully18.dll
+/Users/user/MIS221/labs/MIS-221-lab-5-jsully18/bin/Debug/net8.0/MIS-221-lab-5-jsully18.pdb
+/Users/user/MIS221/labs/MIS-221-lab-5-jsully18/obj/Debug/net8.0/MIS-221-lab-5-jsully18.dll
+/Users/user/MIS221/labs/MIS-221-lab-5-jsully18/obj/Debug/net8.0/refint/MIS-221-lab-5-jsully18.dll
+/Users/user/MIS221/labs/MIS-221-lab-5-jsully18/obj/Debug/net8.0/MIS-221-lab-5-jsully18.pdb
+/Users/user/MIS221/labs/MIS-221-lab-5-jsully18/obj/Debug/net8.0/MIS-221-lab-5-jsully18.genruntimeconfig.cache
+/Users/user/MIS221/labs/MIS-221-lab-5-jsully18/obj/Debug/net8.0/ref/MIS-221-lab-5-jsully18.dll

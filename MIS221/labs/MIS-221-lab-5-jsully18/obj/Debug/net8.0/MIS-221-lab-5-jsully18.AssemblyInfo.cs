@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MIS-221-lab-5-jsully18")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a982022e76e663742aa4474e0dde6643754a3a4f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0a0b5485b661b210a6af2c78c826b582a8c3936")]
 [assembly: System.Reflection.AssemblyProductAttribute("MIS-221-lab-5-jsully18")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MIS-221-lab-5-jsully18")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
